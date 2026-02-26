@@ -1,0 +1,11 @@
+{
+  "id": "email_assistant",
+  "name": "Email Assistant",
+  "version": "1.0.0",
+  "description": "General-purpose IMAP/SMTP email plugin. Receives mail via IMAP IDLE, sends via SMTP SSL. Use node_scope=single to avoid duplicate listeners.",
+  "author": "lihua179",
+  "type": "tool",
+  "tags": ["email", "communication"],
+  "homepage": "https://github.com/lihua179/email_assistant",
+  "git_url": "https://github.com/lihua179/email_assistant"
+}
